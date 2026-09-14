@@ -1,13 +1,12 @@
 # Halo! 👋
 
-**Full-stack developer** interested in Linux systems, Networking, LLMs and cybersecurity.**.
+**Full-stack developer** interested in Linux systems, networking, LLMs, and cybersecurity.
 
 ---
 
 ## 🔗 Connect With Me
 
-
-[![LinkedIn](https://www.linkedin.com/in/varun-v-krishna-437332322/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-v-krishna-437332322/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunkrishnav008@gmail.com)
 
 ---
@@ -35,7 +34,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### ML, AI & Deep Learning
-![Python](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF6B6B.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA-%23FFB6C1.svg?style=for-the-badge&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth-%234A90E2.svg?style=for-the-badge&logoColor=white)
