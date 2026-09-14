@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**Full-stack developer** exploring Linux systems and cybersecurity. I build practical tools that solve real-world problems with a focus on **automation**, **system reliability**, and **clean deployments**.
+**Full-stack developer** exploring Linux systems and cybersecurity. I build practical tools that solve real-world problems with a focus on **automation**, **system reliability**, and **clean deployments**. Passionate about **LLM fine-tuning** and **AI optimization**.
 
 ---
 
@@ -34,8 +34,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### ML & Computer Vision
+### ML, AI & Deep Learning
 ![Python](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6B6B.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-%23FFB6C1.svg?style=for-the-badge&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-%234A90E2.svg?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37726.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & DevOps
