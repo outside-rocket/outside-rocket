@@ -1,14 +1,14 @@
-# Hey there! 👋
+# Halo! 👋
 
-**Full-stack developer** exploring Linux systems and cybersecurity. I build practical tools that solve real-world problems with a focus on **automation**, **system reliability**, and **clean deployments**. Passionate about **LLM fine-tuning** and **AI optimization**.
+**Full-stack developer** interested in Linux systems, Networking, LLMs and cybersecurity.**.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=firefox&logoColor=white)](https://kishalll.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishal-p-0a13842b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishal2007@gmail.com)
+
+[![LinkedIn]([https://www.linkedin.com/in/varun-v-krishna-437332322/])
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunkrishnav008@gmail.com)
 
 ---
 
