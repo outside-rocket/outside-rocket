@@ -7,7 +7,7 @@
 ## 🔗 Connect With Me
 
 
-[![LinkedIn]([https://www.linkedin.com/in/varun-v-krishna-437332322/])
+[![LinkedIn](https://www.linkedin.com/in/varun-v-krishna-437332322/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunkrishnav008@gmail.com)
 
 ---
